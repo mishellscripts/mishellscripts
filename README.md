@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 Hi, my name is Michelle! I'm a software engineer with over 7 years of professional experience in front-end frameworks and back-end systems. My work focuses on the intersection between user experience engineering and data, creating experiences that not only look and perform great but also adapt to user behavior and success metrics. My passion for data storytelling led me to pursue a Master's in Computational Data Analytics at Georgia Tech.
 - Past companies: Cisco, American Specialty Health, Encora
-- 
 
 📫 How to reach me:
 - [Email](mailto:michellesong09@gmail.com)
