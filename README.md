@@ -24,12 +24,12 @@ I'm actively seeking data science or data engineering internship opportunities. 
 
 ### 🎓 What I've learned:
 - Supervised learning - Regression and classification techniques (logistic regression, decision trees, random forests, SVMs) to build predictive models
-- Unsupervised learning - Clustering and collaborative filtering to surface hidden patterns and power recommendation systems
+- Unsupervised learning - Clustering and collaborative filtering to discover hidden patterns and power recommendation systems
 - Time series analysis - Modeling temporal data to identify trends, seasonality, and anomalies for forecasting
 - Statistical modeling - Probabilistic modeling, hypothesis testing, and EDA to validate assumptions and draw defensible conclusions from data
 - Python, SQL, and R - applying Pandas, NumPy, SciPy, Scikit-learn, Tidyverse, and Caret to analytical workflows
 
-### 🤝 Where my background overlaps
+### 🤝 Where my background overlaps:
 - Building and shipping data visualizations that make complex data understandable
 - Designing and maintaining databases and ETL pipelines for data-intensive workflows
 - Integrating analytics tools into production systems
