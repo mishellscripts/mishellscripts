@@ -38,5 +38,5 @@ I'm actively seeking data science or data engineering internship opportunities. 
 
 Thanks for visiting! Here are my links if you would like to connect or get to know me further:
 <p align="center">
-  <a href="https://linkedin.com/in/michelle-song">LinkedIn</a> | <a href="mailto:michellesong09@gmail.com">Email</a> | <a href="https://michellesong.dev">Website</a>
+  <a href="https://linkedin.com/in/michelle-song">LinkedIn</a> | <a href="mailto:michellesong09@gmail.com">Email</a>
 </p>
